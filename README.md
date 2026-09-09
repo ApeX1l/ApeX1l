@@ -1,16 +1,7 @@
-Hi 👋 My name is Ilyin Dmitry
 =============================
 
 Python Developer
 ----------------
-
-I have been engaged in programming 3 years -> python 2 years
-
-* 🌍  I'm based in Kazan
-* ✉️  You can contact me at [ilind663@gmail.com](mailto:ilind663@gmail.com)
-* 🚀  I'm currently working on [OptimalVPN](http://t.me/optimalVPNbot/)
-* 🧠  I'm learning linux, bash
-* 🤝  I'm open to collaborating on any projects
 
 ### Skills
 
